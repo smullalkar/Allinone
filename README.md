@@ -13,10 +13,10 @@ All in one is a online shopping app(client side).
 To get started and know better here is the list of the features build inside this application
 
 1. Home consist of navba and various routes to other pages.
-<p> <img src  = "/router-project/public/home.png"> </p>
+<p> <img src  = "/public/home.png"> </p>
 
 2. Listing page for search results.
-<p> <img src  = "/router-project/public/listing.png"> </p>
+<p> <img src  = "/public/listing.png"> </p>
 
 3. Entity page describing details of the product opened by user.
 <p> <img src  = "/public/entity.png"> </p>
