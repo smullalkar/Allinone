@@ -19,10 +19,10 @@ To get started and know better here is the list of the features build inside thi
 <p> <img src  = "/router-project/public/listing.png"> </p>
 
 3. Entity page describing details of the product opened by user.
-<p> <img src  = "/router-project/public/entity.png"> </p>
+<p> <img src  = "/public/entity.png"> </p>
 
 4. Cart.
-<p> <img src  = "/router-project/public/cart.png"> </p>
+<p> <img src  = "/public/cart.png"> </p>
 
 ## Getting StartedFollow this simple steps to start using this application
 
