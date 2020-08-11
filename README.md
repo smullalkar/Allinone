@@ -6,7 +6,7 @@ and react-router-dom.
 All in one is a online shopping app(client side).
 <br>
 <br>
-<a href =  "http://allinone.smullalkar.tech/">
+<a href =  "http://allinoneproject.smullalkar.tech/">
   <button style = "background:red,padding:5px">Demo Link</button>
 </a>
 
